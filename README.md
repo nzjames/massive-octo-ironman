@@ -15,4 +15,4 @@ $ npm start
 
 NB: Probably need to save a file to kick off a build
 
-Navigate to (http://localhost:8103/dist/)
+Navigate to [http://localhost:8103/dist/](http://localhost:8103/dist/)

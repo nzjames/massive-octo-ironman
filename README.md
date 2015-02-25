@@ -1,5 +1,7 @@
 # Simple React Comp
 
+Demo [http://nzjames.github.io/massive-octo-ironman](http://nzjames.github.io/massive-octo-ironman).
+
 Simple React component built with es6 modules using [Babel](https://babeljs.io/) via babelify to compile JSX and transpile es6 to es5.
 
 
